@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'cac_champagneregular';
+    src: url('../font/cac_champagne-webfont.eot');
+    src: url('../font/cac_champagne-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../font/cac_champagne-webfont.woff') format('woff'),
+         url('../font/cac_champagne-webfont.ttf') format('truetype'),
+         url('../font/cac_champagne-webfont.svg#cac_champagneregular') format('svg');
+}
+
+h1 {
+    font-family: 'cac_champagneregular', Arial, serif;
+}
